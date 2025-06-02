@@ -5,6 +5,7 @@ This is one of several research and development projects I pursue at my Bible.Mi
 https://mkbwp.bible.michaelkentburns.com/?page_id=18
 
 At present this is just to capture the manual BASH and git based tools I use for several hosted WordPress sites.
+Those tools are captured in the SHELL/bash directory with it's own bash.md document.
 
 In the future, I would like to package it up as a more formalized tool, potentially in a WordPress plugin.
 

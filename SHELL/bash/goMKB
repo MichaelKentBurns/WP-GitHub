@@ -1,0 +1,13 @@
+echo goMKB running.
+cd ~/MKB/public_html
+pwd
+eval $(ssh-agent) 
+echo add cert
+ssh-add ~/.ssh/cw/id_cw_mkb_github
+echo verify cert
+ssh-add -l
+#ssh -T git@github.com 
+export db=hynxgrbyjv
+export un=hynxgrbyjv
+export MYSQL_PWD=MgPGa2DcY8
+echo goMKB done.
