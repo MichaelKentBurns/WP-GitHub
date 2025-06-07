@@ -1,5 +1,5 @@
-# WP-Github
-##Tips, techniques, and tools to backup and monitor changes to a WordPress site using Git and Github.
+# WP-GitHub
+##Tips, techniques, and tools to backup and monitor changes to a WordPress site using Git and GitHub.
 
 This is one of several research and development projects I pursue at my Bible.MichaelKentBurns.com site.
 https://mkbwp.bible.michaelkentburns.com/?page_id=18
